@@ -1,0 +1,243 @@
+.sideImage{
+        
+        width: 65%;
+        height: 100%;
+        image-rendering:crisp-edges;
+        border-radius: 02px;
+        margin-left: 05px;
+        opacity:0.8 ;
+        border-color: black;
+        border-left: 30px;
+        padding-bottom: 100px;
+      
+        
+}
+
+.body{
+    background-color: black;
+    
+}
+.navbar{
+    margin: 26px;
+    text-decoration: double;
+    font-size: larger;
+    margin-top: 03px;
+    margin-right: 300px;
+    padding: 2px;
+    overflow: hidden;
+    background-color: black;
+    
+
+}
+.navbar a {
+    color: white;
+    font-size: large;
+    text-decoration: none;
+    padding:14px 18px;
+}
+body{
+    background-color: black;
+    
+}
+.Text1{
+    position: absolute;
+    top:100px;
+    left:18px;
+    font-size:30px;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.Text2{
+    position: absolute;
+    top:140px;
+    left:18px;
+    font-size:20px;
+    color:white;
+}
+.button {
+    position: absolute;
+    top:33%;
+    left:05%;
+    font-size: 150%;
+    
+    background-color: rgb(42, 97, 179);
+    color: white;
+    
+}
+.Right1{
+    width: 20%;
+    height: 60%;
+    position:absolute;
+    top:60px;
+    right:02px;
+}
+.Right2{
+    width: 20%;
+    height: 60%;
+    position:absolute;
+    top:380px;
+    right:02px;
+}
+.Right3{
+    width: 20%;
+    height: 60%;
+    position:absolute;
+    top:690px;
+    right:02px;
+
+}
+.below {
+    right: 40%;
+    position: absolute;
+}
+.bt {
+    color:white;
+    position:absolute;
+    top:1300px;
+    right: 40px;
+    
+}
+.bt1{
+    color:white;
+    position:absolute;
+    top:1357px;
+    right: 40px;
+}
+.rent{
+    color:white;
+    position:absolute;
+    top:1430px;
+    right: 200px;
+    background-color: rgb(42, 97, 179);
+    font-size: large;
+    font-weight: 200;
+    width:200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.last {
+    background-color: white;
+    color:  black;
+    position:relative;
+    top:400px;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    
+    position: relative;
+    justify-content:right;
+    background-color: white;
+    top:380px;
+    flex-flow:row;
+    text-align: center;
+    align-content: space-between;
+    
+
+}
+.flex-container > a {
+    background-color:rgb(42, 97, 179);
+    width: 6000px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 20px;
+   
+    color: white;
+    
+    
+  }
+  .fire{
+    position:relative;
+    top:10px;
+    
+    left:30%;
+    border-radius: 200%;
+    
+    
+
+  }
+  .headline {
+    color: white;
+  }
+  .red{
+    color:white;
+    position: relative;
+    justify-content: right;
+    left:30%;
+    width:40%;
+    border-radius: 40%;
+    
+  }
+  .start{
+    background-color: rgb(42, 97, 179);
+    size: 700px;
+    width: 200px;
+    height: 50px;
+  }
+  .firstick{
+    position: relative;
+    top:384px;
+    justify-content: left;
+    right:25%;
+    background-color: black;
+   border-radius: 10%;
+   border-width: 30%;
+   
+  }
+  .foot{
+    position: relative;
+    top:220px;
+    color: white;
+
+  }
+  .but{
+    background-color:rgb(42, 97, 179) ;
+    color:white;
+    position: relative;
+    width:250px;
+    height: 50px;
+    right:300px;
+
+  }
+  .cart1{
+        left:25%;
+        position: relative;
+
+  }
+  .foothead{
+    position: relative;
+    width: 50%;
+    
+  }
+  .footDet{
+    position: relative;
+    width: 50%;
+  }
+  .cart2{
+        left:35%;
+        position: relative;
+        width:19%;
+        height:40%;
+        left:26%;
+
+  }
+  .pv {
+    color:white;
+  }
+  .prime {
+    color: white;
+    text-decoration: double;
+  }
+  .footer1{
+    color:white;
+  }
+  .footer1 em {
+    color:rgb(42, 97, 179);
+  }
+  .terms {
+    margin:0%;
+    background-color: rgb(42, 97, 179);
+    width: 18%;
+  }
